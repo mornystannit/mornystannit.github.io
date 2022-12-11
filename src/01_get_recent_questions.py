@@ -99,9 +99,9 @@ def clean_recent_questions(df, days=30):
     return recent
 
 
-def get_recent_questions(days=30):
+def get_recent_questions(days=30, n=None):
     """Wrapper function to contain everything"""
-    questions = scrape_metaculus("https://www.metaculus.com/api2/questions/?limit=100&offset=0")
+    questions = scrape_metaculus(url="https://www.metaculus.com/api2/questions/?limit=100&offset=0", n=n)
     questions = pd.json_normalize(questions)
     questions = clean_recent_questions(questions, days)
     return questions
