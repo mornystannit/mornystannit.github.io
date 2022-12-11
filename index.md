@@ -2,8 +2,8 @@
 Updates About The World
 =======================
 
-Questions
-=========
+Summary
+=======
 
 * [Will the Universe end?](#will-the-universe-end)
 * [A decrease in US meat production by 2025](#a-decrease-in-us-meat-production-by-2025)
