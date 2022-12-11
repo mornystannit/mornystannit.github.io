@@ -5,44 +5,54 @@ Updates About The World
 Summary
 =======
 
-* [Will the Universe end?](#will-the-universe-end)
-* [A decrease in US meat production by 2025](#a-decrease-in-us-meat-production-by-2025)
-* [SpaceX Lands People on Mars by 2030](#spacex-lands-people-on-mars-by-2030)
-* [Someone Born before 2001 Lives to 150](#someone-born-before-2001-lives-to-150)
-* [Brain Emulation Produces First Human AI](#brain-emulation-produces-first-human-ai)
-* [Major State Exits EU before 2027](#major-state-exits-eu-before-2027)
-* [Human/Machine Intelligence Parity by 2040](#humanmachine-intelligence-parity-by-2040)
-* [Robocup Challenge Completed by 2050](#robocup-challenge-completed-by-2050)
+* [Will a von Neumann probe be launched bef](#will-a-von-neumann-probe-be-launched-bef)
+* [ACE Recommends Charity for Wild Animals](#ace-recommends-charity-for-wild-animals)
+* [9 Foot Tall Human by 2075](#9-foot-tall-human-by-2075)
+* [FDA Approval for Senolytic Therapy by 2030](#fda-approval-for-senolytic-therapy-by-2030)
+* [Will we know what Dark Matter is before ](#will-we-know-what-dark-matter-is-before-)
+* [From $5tr to $10tr market cap in under 1 year](#from-5tr-to-10tr-market-cap-in-under-1-year)
+* [Will we discover clear evidence of proto](#will-we-discover-clear-evidence-of-proto)
+* [Will the SOO Green Renewable Rail projec](#will-the-soo-green-renewable-rail-projec)
+* [Will humanity (essentially) run out of a](#will-humanity-essentially-run-out-of-a)
+* [Will Germany fail to meet their coal com](#will-germany-fail-to-meet-their-coal-com)
 
-# Will the Universe end?
-
-
-![Will the Universe end?](assets/01.png)
-# A decrease in US meat production by 2025
+# Will a von Neumann probe be launched bef
 
 
-![A decrease in US meat production by 2025](assets/02.png)
-# SpaceX Lands People on Mars by 2030
+![Will a von Neumann probe be launched bef](assets/01.png)
+# ACE Recommends Charity for Wild Animals
 
 
-![SpaceX Lands People on Mars by 2030](assets/03.png)
-# Someone Born before 2001 Lives to 150
+![ACE Recommends Charity for Wild Animals](assets/02.png)
+# 9 Foot Tall Human by 2075
 
 
-![Someone Born before 2001 Lives to 150](assets/04.png)
-# Brain Emulation Produces First Human AI
+![9 Foot Tall Human by 2075](assets/03.png)
+# FDA Approval for Senolytic Therapy by 2030
 
 
-![Brain Emulation Produces First Human AI](assets/05.png)
-# Major State Exits EU before 2027
+![FDA Approval for Senolytic Therapy by 2030](assets/04.png)
+# Will we know what Dark Matter is before 
 
 
-![Major State Exits EU before 2027](assets/06.png)
-# Human/Machine Intelligence Parity by 2040
+![Will we know what Dark Matter is before ](assets/05.png)
+# From $5tr to $10tr market cap in under 1 year
 
 
-![Human/Machine Intelligence Parity by 2040](assets/07.png)
-# Robocup Challenge Completed by 2050
+![From $5tr to $10tr market cap in under 1 year](assets/06.png)
+# Will we discover clear evidence of proto
 
 
-![Robocup Challenge Completed by 2050](assets/08.png)
+![Will we discover clear evidence of proto](assets/07.png)
+# Will the SOO Green Renewable Rail projec
+
+
+![Will the SOO Green Renewable Rail projec](assets/08.png)
+# Will humanity (essentially) run out of a
+
+
+![Will humanity (essentially) run out of a](assets/09.png)
+# Will Germany fail to meet their coal com
+
+
+![Will Germany fail to meet their coal com](assets/10.png)

@@ -6,7 +6,7 @@
 from datetime import datetime
 # from itertools import chain
 # from pprint import pprint
-# from tqdm import tqdm
+from tqdm import tqdm
 # tqdm.pandas()
 
 import matplotlib.pyplot as plt
@@ -169,7 +169,7 @@ def find_significant_changes(questions):
     gdf = binary.groupby('question_id') 
 
     all_peak_values = []
-    for i in qids: 
+    for i in tqdm(qids): 
         peak_val = get_peak(gdf, i, frac=0.05)
         peak_val['question_id'] = i
         all_peak_values.append(peak_val)
