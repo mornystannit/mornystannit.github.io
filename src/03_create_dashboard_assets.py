@@ -60,4 +60,5 @@ def create_dashboard_assets(questions, changes):
         mdFile.new_header(level=1, title=title_short)
         mdFile.new_paragraph(mdFile.new_inline_image(text=title_short, path=plot_path))
 
+    mdFile.new_table_of_contents(table_title='Summary', depth=2)
     mdFile.create_md_file()
