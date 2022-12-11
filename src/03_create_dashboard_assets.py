@@ -83,7 +83,7 @@ def create_dashboard_assets(questions, changes):
         plot_path = f'assets/{i:02}.png'
         plt.savefig(plot_path)
 
-        mdFile.new_header(level=1, title=title_short)
+        mdFile.new_header(level=1, title=title)
         mdFile.new_paragraph(mdFile.new_inline_image(text=title_short, path=plot_path))
 
     mdFile.new_table_of_contents(table_title='Summary', depth=2)
