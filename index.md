@@ -5,34 +5,34 @@ Updates About The World
 Summary
 =======
 
-* [ACE Recommends Charity for Wild Animals](#ace-recommends-charity-for-wild-animals)
-* [Will Germany fail to meet their coal com](#will-germany-fail-to-meet-their-coal-com)
-* [Will we know what Dark Matter is before ](#will-we-know-what-dark-matter-is-before-)
-* [From $5tr to $10tr market cap in under 1 year](#from-5tr-to-10tr-market-cap-in-under-1-year)
-* [Will we discover clear evidence of proto](#will-we-discover-clear-evidence-of-proto)
-* [Fewer than 375M in extreme poverty by 2030](#fewer-than-375m-in-extreme-poverty-by-2030)
+* [Yang Holds US Federal Office by Feb 1, 2037](#yang-holds-us-federal-office-by-feb-1-2037)
+* [2024](#2024)
+* [2044](#2044)
+* [US appoints ambassador to independent Taiwan](#us-appoints-ambassador-to-independent-taiwan)
+* [Javascript's Dominance in 2030](#javascripts-dominance-in-2030)
+* [Republicans Support ES for IQ More Than Dems](#republicans-support-es-for-iq-more-than-dems)
 
-# ACE Recommends Charity for Wild Animals
-
-
-![ACE Recommends Charity for Wild Animals](assets/01.png)
-# Will Germany fail to meet their coal com
+# Yang Holds US Federal Office by Feb 1, 2037
 
 
-![Will Germany fail to meet their coal com](assets/02.png)
-# Will we know what Dark Matter is before 
+![Yang Holds US Federal Office by Feb 1, 2037](assets/02.png)
+# 2024
 
 
-![Will we know what Dark Matter is before ](assets/03.png)
-# From $5tr to $10tr market cap in under 1 year
+![2024](assets/06.png)
+# 2044
 
 
-![From $5tr to $10tr market cap in under 1 year](assets/05.png)
-# Will we discover clear evidence of proto
+![2044](assets/07.png)
+# US appoints ambassador to independent Taiwan
 
 
-![Will we discover clear evidence of proto](assets/06.png)
-# Fewer than 375M in extreme poverty by 2030
+![US appoints ambassador to independent Taiwan](assets/08.png)
+# Javascript's Dominance in 2030
 
 
-![Fewer than 375M in extreme poverty by 2030](assets/10.png)
+![Javascript's Dominance in 2030](assets/09.png)
+# Republicans Support ES for IQ More Than Dems
+
+
+![Republicans Support ES for IQ More Than Dems](assets/10.png)
