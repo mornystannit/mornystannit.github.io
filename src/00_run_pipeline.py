@@ -2,11 +2,11 @@
 
 import importlib
 pipeline_01 = importlib.import_module("01_get_recent_questions")
-#pipeline_02 = importlib.import_module("02_find_significant_changes") # DOES NOT EXIST YET
+pipeline_02 = importlib.import_module("02_find_significant_changes") # TO TEST
 pipeline_03 = importlib.import_module("03_create_dashboard_assets")
 
 
-questions = pipeline_01.get_recent_questions(days=30, n=3)
+questions = pipeline_01.get_recent_questions(days=30, n=1)
 """ Get binary questions that have been recently active in the last `days` days
 Parameters:
     days: the cutoff for 'recent' questions is set as this many days ago
@@ -30,12 +30,12 @@ Returns:
             distribution_var
 """
 
-#changes = pipeline_02.find_significant_changes(questions=questions)
+changes = pipeline_02.find_significant_changes(questions=questions)
 # temp code until pipeline_02 is ready
-changes = questions[['question_id', 't']]
-changes = questions.rename(columns = {'t' : 'peak_time'})
-changes = changes.set_index('question_id').groupby('question_id').sample(1)
-changes = changes.head(10)
+# changes = questions[['question_id', 't']]
+# changes = questions.rename(columns = {'t' : 'peak_time'})
+# changes = changes.set_index('question_id').groupby('question_id').sample(1)
+# changes = changes.head(10)
 
 """ Get significant changes for questions
 Parameters:
