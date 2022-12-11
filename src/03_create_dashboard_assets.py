@@ -36,7 +36,7 @@ def get_search_query(title):
 def get_gdelt_data(query, timespan="5y"):
     """Get data from the GDELT API for a given query"""
     gdelt_url = f"https://api.gdeltproject.org/api/v2/doc/doc?query={query}&mode=timelinevol&timespan={timespan}&format=json"
-    print(gdelt_url)
+    # print(gdelt_url)
     gdelt_json = requests.get(gdelt_url).json()
     gdelt = pd.DataFrame(gdelt_json['timeline'][0]['data'])
     gdelt['date'] = pd.to_datetime(gdelt['date'])

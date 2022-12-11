@@ -16,7 +16,7 @@ from statsmodels.nonparametric.smoothers_lowess import lowess
 from scipy.signal import find_peaks_cwt
 # import seaborn as sns
 # pd.options.mode.chained_assignment = None
-
+from datetime import datetime, timedelta
 
 
 def log_odd(p, base=np.e):
@@ -104,6 +104,9 @@ def get_peak(gdf, question_id, frac=0.05, plot=False):
 
     df = get_smoothed_df(df, frac=frac, rsmpl='2h')
     q_df = add_df_deltas_and_logs(df, timestep=1, base=np.e)
+
+    start_date = q_df.iloc[0].name + timedelta(days=7)
+    q_df = q_df.loc[start_date:]
     q_df = q_df.bfill(limit=1) # get rid of NaN
 
     q_df['abs_dcp_dt'] = abs(q_df['dcp_dt'])
