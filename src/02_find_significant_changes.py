@@ -102,23 +102,26 @@ def get_peak(gdf, question_id, frac=0.05, plot=False):
 
     df= gdf.get_group(question_id)
 
-    df = get_smoothed_df(df, frac=frac, rsmpl='1h')
+    df = get_smoothed_df(df, frac=frac, rsmpl='2h')
     q_df = add_df_deltas_and_logs(df, timestep=1, base=np.e)
     q_df = q_df.bfill(limit=1) # get rid of NaN
 
     q_df['abs_dcp_dt'] = abs(q_df['dcp_dt'])
 
-    # q_df['r_av_abs_dcp_dt'] = q_df.abs_dcp_dt.rolling(2, center=True, closed='both').mean()
-    q_df['lowess_abs_dcp_dt'] = pd.Series(lowess(q_df.abs_dcp_dt, np.arange(len(q_df.abs_dcp_dt)), 
-                                            frac=0.01)[:, 1], index=q_df.index)
+    q_df['r_av_abs_dcp_dt'] = q_df.abs_dcp_dt.rolling(2, center=True, closed='both').mean()
+    # q_df['lowess_abs_dcp_dt'] = pd.Series(lowess(q_df.abs_dcp_dt, np.arange(len(q_df.abs_dcp_dt)), 
+    #                                         frac=0.01)[:, 1], index=q_df.index)
 
-    peaks_found = find_peaks_cwt(q_df.lowess_abs_dcp_dt.values, widths=5)
-    # peaks = peaks_found[0]
-    # metadata = peaks_found[1]
-    peaks=peaks_found
-    peak_scatter = q_df.iloc[peaks]
+    # peaks_found = find_peaks_cwt(q_df.lowess_abs_dcp_dt.values, widths=5)
     
-    peak_val = peak_scatter.sort_values(by='lowess_abs_dcp_dt', ascending=False).iloc[0]
+    peak_val = q_df[q_df.r_av_abs_dcp_dt==q_df['r_av_abs_dcp_dt'].max()].iloc[0]
+    # peak_scatter = peaks_found
+    # # peaks = peaks_found[0]
+    # # metadata = peaks_found[1]
+    # peaks=peaks_found
+    # peak_scatter = q_df.iloc[peaks]
+
+    # peak_val = peak_scatter.sort_values(by='lowess_abs_dcp_dt', ascending=False).iloc[0]
 
     # if plot:
         
@@ -170,16 +173,19 @@ def find_significant_changes(questions):
 
     all_peak_values = []
     for i in tqdm(qids): 
-        peak_val = get_peak(gdf, i, frac=0.05)
-        peak_val['question_id'] = i
-        all_peak_values.append(peak_val)
-
-    all_peak_values = pd.DataFrame(all_peak_values).sort_values(by='lowess_abs_dcp_dt', 
-                                    ascending=False)[['question_id']] # peaks' qids
-
+        try:
+            peak_val = get_peak(gdf, i, frac=0.05)
+            peak_val['question_id'] = i
+            all_peak_values.append(peak_val)
+        except:
+            continue
+    # print(all_peak_values)
+    all_peak_values = pd.DataFrame(all_peak_values).sort_values(by='r_av_abs_dcp_dt', ascending=False) # peaks' qids
+    # print(all_peak_values.r_av_abs_dcp_dt.to_numpy())
     all_peak_values.index.names = ['peak_time']
-    changes = all_peak_values.reset_index()
+    changes = all_peak_values[['question_id']].reset_index()
     changes = changes.set_index('question_id')
+    # print(changes)
     # print(all_peak_values)
 
     return changes

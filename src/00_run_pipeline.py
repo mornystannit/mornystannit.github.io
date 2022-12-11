@@ -6,7 +6,7 @@ pipeline_02 = importlib.import_module("02_find_significant_changes") # TO TEST
 pipeline_03 = importlib.import_module("03_create_dashboard_assets")
 
 
-questions = pipeline_01.get_recent_questions(days=7, n=20)
+questions = pipeline_01.get_recent_questions(days=30, n=None)
 """ Get binary questions that have been recently active in the last `days` days
 Parameters:
     days: the cutoff for 'recent' questions is set as this many days ago

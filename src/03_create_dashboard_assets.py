@@ -2,18 +2,41 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import requests
 from mdutils.mdutils import MdUtils
+import spacy 
+nlp = spacy.load('en_core_web_sm')
+
+# from spacy.lang.en.stop_words import STOP_WORDS
 
 
 def get_search_query(title):
     """Parse the question title to get a search query to put into the GDELT API"""
     # NLP stuff goes here
     # but in the meantime...
-    return "Russia Ukraine"
+
+    # stoplist = STOP_WORDS
+    # stoplist = stoplist | set(bad_ent)
+    # texts = [word for word in txt.lower().split() if word not in stoplist]
+    
+    doc = nlp(title)
+    bad_ent = []
+    ents = []
+    for entity in doc.ents:
+    # print(entity.label_, ' | ', entity.text)
+        if entity.label_ == 'DATE':
+            bad_ent.append(entity.text)
+            # print('Bad entity')
+        else: 
+            ents.append(str(entity))
+    search_query = ' '.join(ents)
+    # print(ents)
+    # print(search_query, type(search_query))
+    return search_query
 
 
 def get_gdelt_data(query, timespan="5y"):
     """Get data from the GDELT API for a given query"""
     gdelt_url = f"https://api.gdeltproject.org/api/v2/doc/doc?query={query}&mode=timelinevol&timespan={timespan}&format=json"
+    print(gdelt_url)
     gdelt_json = requests.get(gdelt_url).json()
     gdelt = pd.DataFrame(gdelt_json['timeline'][0]['data'])
     gdelt['date'] = pd.to_datetime(gdelt['date'])
@@ -50,7 +73,10 @@ def create_dashboard_assets(questions, changes):
         title_short = question.title_short.iloc[0]
         peak_time = pd.Timestamp(row['peak_time'], unit='s')
         search_query = get_search_query(title)
-        gdelt = get_gdelt_data(query=search_query)
+        try:
+            gdelt = get_gdelt_data(query=search_query)
+        except:
+            continue
 
         plot_cp_and_news(question=question, gdelt=gdelt, search_query=search_query, peak_time=peak_time)
 
