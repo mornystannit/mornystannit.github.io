@@ -1,0 +1,43 @@
+name: Run pipeline
+
+on:
+  push:
+    paths:
+    - 'src/00_run_pipeline.py'
+    - 'src/01_get_recent_questions.py'
+    - 'src/02_find_significant_changes.py'
+    - 'src/03_create_dashboard_assets.py'
+    - '.github/workflows/run_pipeline.yml'
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  scrape:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3 # Checkout branch into the runner
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+         
+      - name: Run pipeline
+        run:
+          python src/00_run_pipeline.py
+          
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull
+          git add assets/
+          git add index.md
+          git commit -m 'Update assets from pipeline script'
+          git push
