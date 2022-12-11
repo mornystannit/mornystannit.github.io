@@ -5,54 +5,54 @@ Updates About The World
 Summary
 =======
 
-* [Will a von Neumann probe be launched bef](#will-a-von-neumann-probe-be-launched-bef)
 * [ACE Recommends Charity for Wild Animals](#ace-recommends-charity-for-wild-animals)
-* [9 Foot Tall Human by 2075](#9-foot-tall-human-by-2075)
-* [FDA Approval for Senolytic Therapy by 2030](#fda-approval-for-senolytic-therapy-by-2030)
+* [Transformers to accelerate DL progress](#transformers-to-accelerate-dl-progress)
+* [If a single-payer healthcare system is a](#if-a-single-payer-healthcare-system-is-a)
 * [Will we know what Dark Matter is before ](#will-we-know-what-dark-matter-is-before-)
-* [From $5tr to $10tr market cap in under 1 year](#from-5tr-to-10tr-market-cap-in-under-1-year)
-* [Will we discover clear evidence of proto](#will-we-discover-clear-evidence-of-proto)
-* [Will the SOO Green Renewable Rail projec](#will-the-soo-green-renewable-rail-projec)
-* [Will humanity (essentially) run out of a](#will-humanity-essentially-run-out-of-a)
-* [Will Germany fail to meet their coal com](#will-germany-fail-to-meet-their-coal-com)
+* [Iowa Hosts First Caucus by 2029](#iowa-hosts-first-caucus-by-2029)
+* [Oracle ASI Precedes General ASI](#oracle-asi-precedes-general-asi)
+* [Major Nuclear Accident before January 1, 2022](#major-nuclear-accident-before-january-1-2022)
+* [XENON1T Experiment by 2022](#xenon1t-experiment-by-2022)
+* [Will the National Popular Vote Interstat](#will-the-national-popular-vote-interstat)
+* [US Astronauts Land on Moon by 2025](#us-astronauts-land-on-moon-by-2025)
 
-# Will a von Neumann probe be launched bef
-
-
-![Will a von Neumann probe be launched bef](assets/01.png)
 # ACE Recommends Charity for Wild Animals
 
 
-![ACE Recommends Charity for Wild Animals](assets/02.png)
-# 9 Foot Tall Human by 2075
+![ACE Recommends Charity for Wild Animals](assets/01.png)
+# Transformers to accelerate DL progress
 
 
-![9 Foot Tall Human by 2075](assets/03.png)
-# FDA Approval for Senolytic Therapy by 2030
+![Transformers to accelerate DL progress](assets/02.png)
+# If a single-payer healthcare system is a
 
 
-![FDA Approval for Senolytic Therapy by 2030](assets/04.png)
+![If a single-payer healthcare system is a](assets/03.png)
 # Will we know what Dark Matter is before 
 
 
-![Will we know what Dark Matter is before ](assets/05.png)
-# From $5tr to $10tr market cap in under 1 year
+![Will we know what Dark Matter is before ](assets/04.png)
+# Iowa Hosts First Caucus by 2029
 
 
-![From $5tr to $10tr market cap in under 1 year](assets/06.png)
-# Will we discover clear evidence of proto
+![Iowa Hosts First Caucus by 2029](assets/05.png)
+# Oracle ASI Precedes General ASI
 
 
-![Will we discover clear evidence of proto](assets/07.png)
-# Will the SOO Green Renewable Rail projec
+![Oracle ASI Precedes General ASI](assets/06.png)
+# Major Nuclear Accident before January 1, 2022
 
 
-![Will the SOO Green Renewable Rail projec](assets/08.png)
-# Will humanity (essentially) run out of a
+![Major Nuclear Accident before January 1, 2022](assets/07.png)
+# XENON1T Experiment by 2022
 
 
-![Will humanity (essentially) run out of a](assets/09.png)
-# Will Germany fail to meet their coal com
+![XENON1T Experiment by 2022](assets/08.png)
+# Will the National Popular Vote Interstat
 
 
-![Will Germany fail to meet their coal com](assets/10.png)
+![Will the National Popular Vote Interstat](assets/09.png)
+# US Astronauts Land on Moon by 2025
+
+
+![US Astronauts Land on Moon by 2025](assets/10.png)
