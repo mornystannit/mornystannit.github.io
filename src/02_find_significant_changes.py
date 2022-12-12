@@ -3,7 +3,6 @@
 
 
 # from collections import Counter
-from datetime import datetime
 # from itertools import chain
 # from pprint import pprint
 from tqdm import tqdm
@@ -16,7 +15,7 @@ from statsmodels.nonparametric.smoothers_lowess import lowess
 from scipy.signal import find_peaks_cwt
 # import seaborn as sns
 # pd.options.mode.chained_assignment = None
-from datetime import datetime, timedelta
+import datetime
 
 
 def log_odd(p, base=np.e):
@@ -105,7 +104,7 @@ def get_peak(gdf, question_id, frac=0.05, plot=False):
     df = get_smoothed_df(df, frac=frac, rsmpl='2h')
     q_df = add_df_deltas_and_logs(df, timestep=1, base=np.e)
 
-    start_date = q_df.iloc[0].name + timedelta(days=7) # after 7 days
+    start_date = pd.Timestamp(datetime.datetime.now()) - datetime.timedelta(days=14) # within last 14 days
     q_df = q_df.loc[start_date:]
     q_df = q_df.bfill(limit=1) # get rid of NaN
 
