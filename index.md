@@ -12,7 +12,7 @@ Summary
 * [Will Tsinghua University bar some students from returning to the dorms for the 2023 Spring Semester?](#will-tsinghua-university-bar-some-students-from-returning-to-the-dorms-for-the-2023-spring-semester)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
 * [[Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?](#short-fuse-will-raphael-warnock-defeat-herschel-walker-in-the-georgia-senate-runoff-on-tuesday)
-* [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-tennessee-titans)
+* [Who will win the 2022 FIFA World Cup? (Argentina)](#who-will-win-the-2022-fifa-world-cup-argentina)
 
 # Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
 
@@ -42,7 +42,7 @@ Summary
 
 
 ![Will The People Choose Raphael Warnock?](assets/09.png)
-# Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)
+# Who will win the 2022 FIFA World Cup? (Argentina)
 
 
-![Tennessee Titans](assets/10.png)
+![Argentina](assets/10.png)
