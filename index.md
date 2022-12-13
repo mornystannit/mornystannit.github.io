@@ -17,7 +17,7 @@ Summary
 # Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?
 
 
-![Any State Dem Pres. Caucus in 2024](assets/02.png)
+![Any State Dem Pres. Caucus in 2024](assets/03.png)
 # Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
 
 
