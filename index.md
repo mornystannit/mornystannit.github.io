@@ -12,7 +12,7 @@ Summary
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
 * [[Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?](#short-fuse-will-raphael-warnock-defeat-herschel-walker-in-the-georgia-senate-runoff-on-tuesday)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-tennessee-titans)
-* [Will there be a bilateral ceasefire of at least 30 days in the Tigray war before 2023?](#will-there-be-a-bilateral-ceasefire-of-at-least-30-days-in-the-tigray-war-before-2023)
+* [Will Iran disempower its Guidance Patrol "modesty police" before 2024?](#will-iran-disempower-its-guidance-patrol-modesty-police-before-2024)
 
 # Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?
 
@@ -42,7 +42,7 @@ Summary
 
 
 ![Tennessee Titans](assets/09.png)
-# Will there be a bilateral ceasefire of at least 30 days in the Tigray war before 2023?
+# Will Iran disempower its Guidance Patrol "modesty police" before 2024?
 
 
-![Ceasefire in Tigray War before 2023](assets/10.png)
+![Iranian modesty police disempowered by 2024](assets/10.png)
