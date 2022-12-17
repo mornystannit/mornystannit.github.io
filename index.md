@@ -11,8 +11,8 @@ Summary
 * [Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?](#will-sadiq-khan-win-re-election-in-the-2024-london-mayoral-elections)
 * [Will Tsinghua University bar some students from returning to the dorms for the 2023 Spring Semester?](#will-tsinghua-university-bar-some-students-from-returning-to-the-dorms-for-the-2023-spring-semester)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
-* [[Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?](#short-fuse-will-raphael-warnock-defeat-herschel-walker-in-the-georgia-senate-runoff-on-tuesday)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-tennessee-titans)
+* [[Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?](#short-fuse-will-raphael-warnock-defeat-herschel-walker-in-the-georgia-senate-runoff-on-tuesday)
 
 # Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
 
@@ -38,11 +38,11 @@ Summary
 
 
 ![Fathom Radiant Product Launch by 2026](assets/08.png)
-# [Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?
-
-
-![Will The People Choose Raphael Warnock?](assets/09.png)
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)
 
 
-![Tennessee Titans](assets/10.png)
+![Tennessee Titans](assets/09.png)
+# [Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?
+
+
+![Will The People Choose Raphael Warnock?](assets/10.png)
