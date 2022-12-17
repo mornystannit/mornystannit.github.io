@@ -21,11 +21,11 @@ Summary
 # Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?
 
 
-![Any State Dem Pres. Caucus in 2024](assets/04.png)
+![Any State Dem Pres. Caucus in 2024](assets/03.png)
 # Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
 
 
-![Will certain statues go to Greece by 2024?](assets/05.png)
+![Will certain statues go to Greece by 2024?](assets/04.png)
 # Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?
 
 
