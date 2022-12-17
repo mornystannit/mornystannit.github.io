@@ -12,6 +12,7 @@ Summary
 * [Will Tsinghua University bar some students from returning to the dorms for the 2023 Spring Semester?](#will-tsinghua-university-bar-some-students-from-returning-to-the-dorms-for-the-2023-spring-semester)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-tennessee-titans)
+* [Will Iran disempower its Guidance Patrol "modesty police" before 2024?](#will-iran-disempower-its-guidance-patrol-modesty-police-before-2024)
 
 # Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
 
@@ -28,16 +29,20 @@ Summary
 # Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?
 
 
-![Sadiq Khan re-elected in 2024](assets/06.png)
+![Sadiq Khan re-elected in 2024](assets/05.png)
 # Will Tsinghua University bar some students from returning to the dorms for the 2023 Spring Semester?
 
 
-![Tsinghua University Dorms Closed Spring 2023?](assets/07.png)
+![Tsinghua University Dorms Closed Spring 2023?](assets/06.png)
 # Will Fathom Radiant ship a commercial product before 2026?
 
 
-![Fathom Radiant Product Launch by 2026](assets/08.png)
+![Fathom Radiant Product Launch by 2026](assets/07.png)
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)
 
 
-![Tennessee Titans](assets/10.png)
+![Tennessee Titans](assets/09.png)
+# Will Iran disempower its Guidance Patrol "modesty police" before 2024?
+
+
+![Iranian modesty police disempowered by 2024](assets/10.png)
