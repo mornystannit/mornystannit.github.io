@@ -12,7 +12,7 @@ Summary
 * [Will Tsinghua University bar some students from returning to the dorms for the 2023 Spring Semester?](#will-tsinghua-university-bar-some-students-from-returning-to-the-dorms-for-the-2023-spring-semester)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-tennessee-titans)
-* [[Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?](#short-fuse-will-raphael-warnock-defeat-herschel-walker-in-the-georgia-senate-runoff-on-tuesday)
+* [Will Iran disempower its Guidance Patrol "modesty police" before 2024?](#will-iran-disempower-its-guidance-patrol-modesty-police-before-2024)
 
 # Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
 
@@ -42,7 +42,7 @@ Summary
 
 
 ![Tennessee Titans](assets/09.png)
-# [Short Fuse] Will Raphael Warnock defeat Herschel Walker in the Georgia Senate runoff on Tuesday?
+# Will Iran disempower its Guidance Patrol "modesty police" before 2024?
 
 
-![Will The People Choose Raphael Warnock?](assets/10.png)
+![Iranian modesty police disempowered by 2024](assets/10.png)
