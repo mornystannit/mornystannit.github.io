@@ -40,4 +40,4 @@ Summary
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Tennessee Titans)
 
 
-![Tennessee Titans](assets/09.png)
+![Tennessee Titans](assets/10.png)
