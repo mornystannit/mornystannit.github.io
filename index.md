@@ -11,7 +11,7 @@ Summary
 * [Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?](#will-certain-marble-statues-removed-from-greece-in-the-early-19th-century-be-moved-back-before-2024)
 * [Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?](#will-sadiq-khan-win-re-election-in-the-2024-london-mayoral-elections)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
-* [Who will win the 2022 FIFA World Cup? (France)](#who-will-win-the-2022-fifa-world-cup-france)
+* [Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?](#will-ukraine-regain-control-of-the-zaporizhzhia-nuclear-power-plant-before-march-1-2023)
 
 # Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
 
@@ -37,7 +37,7 @@ Summary
 
 
 ![Fathom Radiant Product Launch by 2026](assets/09.png)
-# Who will win the 2022 FIFA World Cup? (France)
+# Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?
 
 
-![France](assets/10.png)
+![Ukraine controls ZNPP by March 2023](assets/10.png)
