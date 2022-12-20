@@ -24,7 +24,7 @@ Summary
 # Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?
 
 
-![Ukraine controls ZNPP by March 2023](assets/03.png)
+![Ukraine controls ZNPP by March 2023](assets/04.png)
 # Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?
 
 
