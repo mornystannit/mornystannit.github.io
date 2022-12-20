@@ -35,4 +35,4 @@ Summary
 # Will Fathom Radiant ship a commercial product before 2026?
 
 
-![Fathom Radiant Product Launch by 2026](assets/10.png)
+![Fathom Radiant Product Launch by 2026](assets/09.png)
