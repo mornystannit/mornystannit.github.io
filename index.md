@@ -11,7 +11,6 @@ Summary
 * [Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?](#will-any-state-hold-a-caucus-instead-of-a-primary-for-the-democratic-presidential-nomination-in-2024)
 * [Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?](#will-sadiq-khan-win-re-election-in-the-2024-london-mayoral-elections)
 * [Will Fathom Radiant ship a commercial product before 2026?](#will-fathom-radiant-ship-a-commercial-product-before-2026)
-* [Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?](#will-certain-marble-statues-removed-from-greece-in-the-early-19th-century-be-moved-back-before-2024)
 
 # Will South Tyrol secede from Italy before 2050?
 
@@ -36,8 +35,4 @@ Summary
 # Will Fathom Radiant ship a commercial product before 2026?
 
 
-![Fathom Radiant Product Launch by 2026](assets/09.png)
-# Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
-
-
-![Will certain statues go to Greece by 2024?](assets/10.png)
+![Fathom Radiant Product Launch by 2026](assets/10.png)
