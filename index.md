@@ -19,7 +19,7 @@ Summary
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Miami Dolphins)
 
 
-![Miami Dolphins](assets/03.png)
+![Miami Dolphins](assets/02.png)
 # Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?
 
 
@@ -35,4 +35,4 @@ Summary
 # Will Fathom Radiant ship a commercial product before 2026?
 
 
-![Fathom Radiant Product Launch by 2026](assets/10.png)
+![Fathom Radiant Product Launch by 2026](assets/09.png)
