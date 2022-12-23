@@ -10,7 +10,6 @@ Summary
 * [Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?](#will-ukraine-regain-control-of-the-zaporizhzhia-nuclear-power-plant-before-march-1-2023)
 * [Will any state hold a caucus instead of a primary for the Democratic Presidential nomination in 2024?](#will-any-state-hold-a-caucus-instead-of-a-primary-for-the-democratic-presidential-nomination-in-2024)
 * [Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?](#will-sadiq-khan-win-re-election-in-the-2024-london-mayoral-elections)
-* [Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?](#will-environment-and-climate-change-canada-register-a-white-christmas--snow-on-the-ground-on-december-25th--for-toronto)
 
 # Will South Tyrol secede from Italy before 2050?
 
@@ -32,7 +31,3 @@ Summary
 
 
 ![Sadiq Khan re-elected in 2024](assets/07.png)
-# Will Environment and Climate Change Canada register a white Christmas – snow on the ground on December 25th – for Toronto?
-
-
-![Toronto "white Christmas"](assets/10.png)
