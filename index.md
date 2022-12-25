@@ -25,4 +25,4 @@ Summary
 # Will Sadiq Khan win re-election in the 2024 London Mayoral Elections?
 
 
-![Sadiq Khan re-elected in 2024](assets/06.png)
+![Sadiq Khan re-elected in 2024](assets/05.png)
