@@ -19,15 +19,15 @@ Summary
 # Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
 
 
-![ChatGPT Public API Before April 2023?](assets/02.png)
+![ChatGPT Public API Before April 2023?](assets/03.png)
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Miami Dolphins)
 
 
-![Miami Dolphins](assets/03.png)
+![Miami Dolphins](assets/04.png)
 # Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?
 
 
-![Ukraine controls ZNPP by March 2023](assets/04.png)
+![Ukraine controls ZNPP by March 2023](assets/05.png)
 # Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?
 
 
