@@ -27,7 +27,7 @@ Summary
 # Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?
 
 
-![ChatGPT Free Availability on January 31, 2023](assets/06.png)
+![ChatGPT Free Availability on January 31, 2023](assets/07.png)
 # Who will be the most recent CEO of Twitter on February 1, 2023? (Lex Fridman)
 
 
