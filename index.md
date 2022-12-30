@@ -11,7 +11,7 @@ Summary
 * [Will Ukraine regain control of the Zaporizhzhia Nuclear Power Plant before March 1, 2023?](#will-ukraine-regain-control-of-the-zaporizhzhia-nuclear-power-plant-before-march-1-2023)
 * [Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?](#will-openais-chatgpt-be-available-for-free-public-use-on-jan-31-2023)
 * [Will Russia capture or surround a large Ukrainian city before June 1, 2023?](#will-russia-capture-or-surround-a-large-ukrainian-city-before-june-1-2023)
-* [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
+* [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
 
 # Will South Tyrol secede from Italy before 2050?
 
@@ -37,7 +37,7 @@ Summary
 
 
 ![RUS Captures Major UA City Before June 2023?](assets/08.png)
-# Will Russia start another wave of mobilization before the following dates? (July 1, 2023)
+# Will Russia start another wave of mobilization before the following dates? (March 1, 2023)
 
 
-![July 1, 2023](assets/10.png)
+![March 1, 2023](assets/09.png)
