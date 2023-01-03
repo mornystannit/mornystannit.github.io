@@ -15,15 +15,15 @@ Summary
 # Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
 
 
-![ChatGPT Public API Before April 2023?](assets/03.png)
+![ChatGPT Public API Before April 2023?](assets/02.png)
 # Will Russia capture or surround a large Ukrainian city before June 1, 2023?
 
 
-![RUS Captures Major UA City Before June 2023?](assets/04.png)
+![RUS Captures Major UA City Before June 2023?](assets/03.png)
 # Will Israel have a national election for Knesset in 2023?
 
 
-![Israeli Knesset Election in 2023?](assets/05.png)
+![Israeli Knesset Election in 2023?](assets/04.png)
 # Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?
 
 
