@@ -27,7 +27,7 @@ Summary
 # Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?
 
 
-![ChatGPT Free Availability on January 31, 2023](assets/07.png)
+![ChatGPT Free Availability on January 31, 2023](assets/06.png)
 # Will Russia start another wave of mobilization before the following dates? (March 1, 2023)
 
 
