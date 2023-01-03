@@ -5,8 +5,8 @@ Updates About The World
 Summary
 =======
 
-* [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Miami Dolphins)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-miami-dolphins)
+* [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
 * [Will Israel have a national election for Knesset in 2023?](#will-israel-have-a-national-election-for-knesset-in-2023)
 * [Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?](#will-openais-chatgpt-be-available-for-free-public-use-on-jan-31-2023)
 * [Will Russia capture or surround a large Ukrainian city before June 1, 2023?](#will-russia-capture-or-surround-a-large-ukrainian-city-before-june-1-2023)
@@ -14,14 +14,14 @@ Summary
 * [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
 * [Who will be the most recent CEO of Twitter on February 1, 2023? (Lex Fridman)](#who-will-be-the-most-recent-ceo-of-twitter-on-february-1-2023-lex-fridman)
 
-# Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
-
-
-![ChatGPT Public API Before April 2023?](assets/01.png)
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Miami Dolphins)
 
 
-![Miami Dolphins](assets/02.png)
+![Miami Dolphins](assets/01.png)
+# Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
+
+
+![ChatGPT Public API Before April 2023?](assets/02.png)
 # Will Israel have a national election for Knesset in 2023?
 
 
