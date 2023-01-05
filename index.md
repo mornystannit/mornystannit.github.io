@@ -16,7 +16,7 @@ Summary
 # Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
 
 
-![ChatGPT Public API Before April 2023?](assets/02.png)
+![ChatGPT Public API Before April 2023?](assets/01.png)
 # Will Russia capture or surround a large Ukrainian city before June 1, 2023?
 
 
