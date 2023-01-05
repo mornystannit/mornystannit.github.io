@@ -19,11 +19,11 @@ Summary
 # Will Russia capture or surround a large Ukrainian city before June 1, 2023?
 
 
-![RUS Captures Major UA City Before June 2023?](assets/03.png)
+![RUS Captures Major UA City Before June 2023?](assets/02.png)
 # Will Israel have a national election for Knesset in 2023?
 
 
-![Israeli Knesset Election in 2023?](assets/04.png)
+![Israeli Knesset Election in 2023?](assets/03.png)
 # Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?
 
 
