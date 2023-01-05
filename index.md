@@ -11,7 +11,6 @@ Summary
 * [Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?](#will-microsoft-integrate-large-language-model-responses-directly-into-bing-search-before-september-30-2023)
 * [Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?](#will-openais-chatgpt-be-available-for-free-public-use-on-jan-31-2023)
 * [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
-* [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
 
 # Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
 
@@ -37,7 +36,3 @@ Summary
 
 
 ![March 1, 2023](assets/07.png)
-# Will Russia start another wave of mobilization before the following dates? (July 1, 2023)
-
-
-![July 1, 2023](assets/10.png)
