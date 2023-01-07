@@ -16,7 +16,7 @@ Summary
 # Will there be a collision or ramming incident between a military vessel or military aircraft of Russia or Belarus, and one of a NATO country, before 2024?
 
 
-![Russia-NATO ramming incident by 2024](assets/02.png)
+![Russia-NATO ramming incident by 2024](assets/01.png)
 # Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
 
 
