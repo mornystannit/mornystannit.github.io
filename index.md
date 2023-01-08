@@ -11,7 +11,6 @@ Summary
 * [Will Israel have a national election for Knesset in 2023?](#will-israel-have-a-national-election-for-knesset-in-2023)
 * [Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?](#will-microsoft-integrate-large-language-model-responses-directly-into-bing-search-before-september-30-2023)
 * [Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?](#will-openais-chatgpt-be-available-for-free-public-use-on-jan-31-2023)
-* [Who will be the most recent CEO of Twitter on February 1, 2023? (Lex Fridman)](#who-will-be-the-most-recent-ceo-of-twitter-on-february-1-2023-lex-fridman)
 * [Will Ukraine receive a modern main battle tank from a NATO country by 2024?](#will-ukraine-receive-a-modern-main-battle-tank-from-a-nato-country-by-2024)
 * [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
 
@@ -39,15 +38,11 @@ Summary
 
 
 ![ChatGPT Free Availability on January 31, 2023](assets/07.png)
-# Who will be the most recent CEO of Twitter on February 1, 2023? (Lex Fridman)
-
-
-![Lex Fridman](assets/08.png)
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/09.png)
+![NATO tanks to Ukraine by 2024](assets/08.png)
 # Will Russia start another wave of mobilization before the following dates? (March 1, 2023)
 
 
-![March 1, 2023](assets/10.png)
+![March 1, 2023](assets/09.png)
