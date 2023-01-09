@@ -7,11 +7,11 @@ Summary
 
 * [Will there be a collision or ramming incident between a military vessel or military aircraft of Russia or Belarus, and one of a NATO country, before 2024?](#will-there-be-a-collision-or-ramming-incident-between-a-military-vessel-or-military-aircraft-of-russia-or-belarus-and-one-of-a-nato-country-before-2024)
 * [Will Israel have a national election for Knesset in 2023?](#will-israel-have-a-national-election-for-knesset-in-2023)
-* [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
 * [Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?](#will-microsoft-integrate-large-language-model-responses-directly-into-bing-search-before-september-30-2023)
-* [Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?](#will-openais-chatgpt-be-available-for-free-public-use-on-jan-31-2023)
 * [Will Ukraine receive a modern main battle tank from a NATO country by 2024?](#will-ukraine-receive-a-modern-main-battle-tank-from-a-nato-country-by-2024)
 * [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
+* [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
+* [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
 
 # Will there be a collision or ramming incident between a military vessel or military aircraft of Russia or Belarus, and one of a NATO country, before 2024?
 
@@ -21,23 +21,23 @@ Summary
 
 
 ![Israeli Knesset Election in 2023?](assets/02.png)
-# Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
-
-
-![ChatGPT Public API Before April 2023?](assets/03.png)
 # Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?
 
 
-![Large Language Model in Bing Search](assets/05.png)
-# Will OpenAI's ChatGPT be available for free public use on Jan 31, 2023?
-
-
-![ChatGPT Free Availability on January 31, 2023](assets/06.png)
+![Large Language Model in Bing Search](assets/03.png)
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/07.png)
+![NATO tanks to Ukraine by 2024](assets/04.png)
 # Will Russia start another wave of mobilization before the following dates? (March 1, 2023)
 
 
-![March 1, 2023](assets/08.png)
+![March 1, 2023](assets/05.png)
+# Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
+
+
+![ChatGPT Public API Before April 2023?](assets/07.png)
+# Will Russia start another wave of mobilization before the following dates? (July 1, 2023)
+
+
+![July 1, 2023](assets/10.png)
