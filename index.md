@@ -9,7 +9,6 @@ Summary
 * [Will Israel have a national election for Knesset in 2023?](#will-israel-have-a-national-election-for-knesset-in-2023)
 * [Will Microsoft integrate Large Language Model responses directly into Bing Search before September 30, 2023?](#will-microsoft-integrate-large-language-model-responses-directly-into-bing-search-before-september-30-2023)
 * [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
-* [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
 * [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
 * [Will Ukraine receive a modern main battle tank from a NATO country by 2024?](#will-ukraine-receive-a-modern-main-battle-tank-from-a-nato-country-by-2024)
 
@@ -29,15 +28,11 @@ Summary
 
 
 ![March 1, 2023](assets/05.png)
-# Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?
-
-
-![ChatGPT Public API Before April 2023?](assets/06.png)
 # Will Russia start another wave of mobilization before the following dates? (July 1, 2023)
 
 
-![July 1, 2023](assets/09.png)
+![July 1, 2023](assets/08.png)
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/10.png)
+![NATO tanks to Ukraine by 2024](assets/09.png)
