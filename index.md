@@ -11,7 +11,7 @@ Summary
 * [Will Russia start another wave of mobilization before the following dates? (March 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-march-1-2023)
 * [Will OpenAI release a public API for programmatically querying ChatGPT before April 1, 2023?](#will-openai-release-a-public-api-for-programmatically-querying-chatgpt-before-april-1-2023)
 * [Will Russia start another wave of mobilization before the following dates? (July 1, 2023)](#will-russia-start-another-wave-of-mobilization-before-the-following-dates-july-1-2023)
-* [Will the United States default on its sovereign debt before 2024?](#will-the-united-states-default-on-its-sovereign-debt-before-2024)
+* [Will Ukraine receive a modern main battle tank from a NATO country by 2024?](#will-ukraine-receive-a-modern-main-battle-tank-from-a-nato-country-by-2024)
 
 # Will there be a collision or ramming incident between a military vessel or military aircraft of Russia or Belarus, and one of a NATO country, before 2024?
 
@@ -37,7 +37,7 @@ Summary
 
 
 ![July 1, 2023](assets/09.png)
-# Will the United States default on its sovereign debt before 2024?
+# Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![U.S. Default Before 2024](assets/10.png)
+![NATO tanks to Ukraine by 2024](assets/10.png)
