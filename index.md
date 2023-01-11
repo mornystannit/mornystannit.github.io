@@ -35,4 +35,4 @@ Summary
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/09.png)
+![NATO tanks to Ukraine by 2024](assets/10.png)
