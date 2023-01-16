@@ -21,7 +21,7 @@ Summary
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/06.png)
+![NATO tanks to Ukraine by 2024](assets/07.png)
 # Will the next COVID VOC be milder than Omicron?
 
 
