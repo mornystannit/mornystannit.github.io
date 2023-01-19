@@ -16,7 +16,7 @@ Summary
 # Will Ukraine receive a modern main battle tank from a NATO country by 2024?
 
 
-![NATO tanks to Ukraine by 2024](assets/03.png)
+![NATO tanks to Ukraine by 2024](assets/04.png)
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?
 
 
