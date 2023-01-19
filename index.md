@@ -25,4 +25,4 @@ Summary
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?
 
 
-![Russian Troops in Central Bakhmut by 1-27-23](assets/08.png)
+![Russian Troops in Central Bakhmut by 1-27-23](assets/09.png)
