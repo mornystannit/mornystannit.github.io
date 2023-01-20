@@ -25,4 +25,4 @@ Summary
 # On January 1, 2024, will prediction markets say Ron DeSantis is the most likely Republican nominee for President in 2024?
 
 
-![DeSantis Nomination According to Markets](assets/10.png)
+![DeSantis Nomination According to Markets](assets/09.png)
