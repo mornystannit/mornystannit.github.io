@@ -8,7 +8,7 @@ Summary
 * [Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?](#will-russian-troops-reach-the-center-of-bakhmut-ukraine-before-0000-hrs-local-time-on-january-20th-2023)
 * [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Jacksonville Jaguars)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-jacksonville-jaguars)
 * [Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?](#will-russian-troops-reach-the-center-of-bakhmut-ukraine-before-0000-hrs-local-time-on-january-27th-2023)
-* [Will a small molecule GLP-1-based drug be approved for the treatment of obesity by the FDA or EMA by 2029?](#will-a-small-molecule-glp-1-based-drug-be-approved-for-the-treatment-of-obesity-by-the-fda-or-ema-by-2029)
+* [What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)](#what-coalition-will-govern-berlin-after-the-2023-repeat-state-election-spdgreensleft)
 
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?
 
@@ -22,7 +22,7 @@ Summary
 
 
 ![Russian Troops in Central Bakhmut by 1-27-23](assets/07.png)
-# Will a small molecule GLP-1-based drug be approved for the treatment of obesity by the FDA or EMA by 2029?
+# What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)
 
 
-![GLP-1-based drug approval by 2029](assets/08.png)
+![SPD+Greens+Left](assets/10.png)
