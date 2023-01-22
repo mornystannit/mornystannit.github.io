@@ -18,7 +18,7 @@ Summary
 # Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2024)
 
 
-![January 1, 2024](assets/05.png)
+![January 1, 2024](assets/06.png)
 # Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2027)
 
 
