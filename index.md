@@ -18,16 +18,16 @@ Summary
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?
 
 
-![Russian Troops in Central Bakhmut by 1-20-'23](assets/05.png)
+![Russian Troops in Central Bakhmut by 1-20-'23](assets/04.png)
 # Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2024)
 
 
-![January 1, 2024](assets/07.png)
+![January 1, 2024](assets/06.png)
 # Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2027)
 
 
-![January 1, 2027](assets/08.png)
+![January 1, 2027](assets/07.png)
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Jacksonville Jaguars)
 
 
-![Jacksonville Jaguars](assets/09.png)
+![Jacksonville Jaguars](assets/08.png)
