@@ -30,4 +30,4 @@ Summary
 # Which teams will advance to the divisional round of the 2023 NFL playoffs? (Jacksonville Jaguars)
 
 
-![Jacksonville Jaguars](assets/09.png)
+![Jacksonville Jaguars](assets/08.png)
