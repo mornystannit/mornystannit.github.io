@@ -10,6 +10,7 @@ Summary
 * [Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2024)](#will-a-grant-recipient-of-the-ftx-foundation-have-their-grant-funds-frozen-seized-or-demanded-back-january-1-2024)
 * [Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2027)](#will-a-grant-recipient-of-the-ftx-foundation-have-their-grant-funds-frozen-seized-or-demanded-back-january-1-2027)
 * [What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)](#what-coalition-will-govern-berlin-after-the-2023-repeat-state-election-spdgreensleft)
+* [Who will win the 2023 Nigerian Presidential Election? (Bola Tinubu)](#who-will-win-the-2023-nigerian-presidential-election-bola-tinubu)
 
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?
 
@@ -30,4 +31,8 @@ Summary
 # What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)
 
 
-![SPD+Greens+Left](assets/10.png)
+![SPD+Greens+Left](assets/09.png)
+# Who will win the 2023 Nigerian Presidential Election? (Bola Tinubu)
+
+
+![Bola Tinubu](assets/10.png)
