@@ -6,19 +6,15 @@ Summary
 =======
 
 * [Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?](#will-russian-troops-reach-the-center-of-bakhmut-ukraine-before-0000-hrs-local-time-on-january-27th-2023)
-* [Which teams will advance to the divisional round of the 2023 NFL playoffs? (Jacksonville Jaguars)](#which-teams-will-advance-to-the-divisional-round-of-the-2023-nfl-playoffs-jacksonville-jaguars)
 * [Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?](#will-russian-troops-reach-the-center-of-bakhmut-ukraine-before-0000-hrs-local-time-on-january-20th-2023)
 * [Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2024)](#will-a-grant-recipient-of-the-ftx-foundation-have-their-grant-funds-frozen-seized-or-demanded-back-january-1-2024)
 * [Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2027)](#will-a-grant-recipient-of-the-ftx-foundation-have-their-grant-funds-frozen-seized-or-demanded-back-january-1-2027)
+* [What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)](#what-coalition-will-govern-berlin-after-the-2023-repeat-state-election-spdgreensleft)
 
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?
 
 
 ![Russian Troops in Central Bakhmut by 1-27-23](assets/01.png)
-# Which teams will advance to the divisional round of the 2023 NFL playoffs? (Jacksonville Jaguars)
-
-
-![Jacksonville Jaguars](assets/03.png)
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 20th, 2023?
 
 
@@ -31,3 +27,7 @@ Summary
 
 
 ![January 1, 2027](assets/07.png)
+# What coalition will govern Berlin after the 2023 repeat state election? (SPD+Greens+Left)
+
+
+![SPD+Greens+Left](assets/10.png)
