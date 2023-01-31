@@ -25,4 +25,4 @@ Summary
 # Who will win the 2023 Nigerian Presidential Election? (Bola Tinubu)
 
 
-![Bola Tinubu](assets/10.png)
+![Bola Tinubu](assets/09.png)
