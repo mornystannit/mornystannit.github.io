@@ -13,7 +13,7 @@ Summary
 # Will New York City break its record by going more than 332 days without measurable snow?
 
 
-![NYC Breaks its Record for Snowless Days](assets/01.png)
+![NYC Breaks its Record for Snowless Days](assets/03.png)
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?
 
 
