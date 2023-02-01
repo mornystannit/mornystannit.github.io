@@ -21,7 +21,7 @@ Summary
 # Will Russian troops reach the center of Bakhmut, Ukraine before 0000 hrs local time on January 27th, 2023?
 
 
-![Russian Troops in Central Bakhmut by 1-27-23](assets/05.png)
+![Russian Troops in Central Bakhmut by 1-27-23](assets/06.png)
 # Will a grant recipient of the FTX Foundation have their grant funds frozen, seized, or demanded back? (January 1, 2024)
 
 
