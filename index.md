@@ -12,7 +12,6 @@ Summary
 * [Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?](#will-the-maiden-flight-of-the-h3-launch-vehicle-carrying-alos-3-launch-successfully-and-on-time)
 * [Will there be 100 or more homicides in Portland, Oregon in 2023?](#will-there-be-100-or-more-homicides-in-portland-oregon-in-2023)
 * [Will Ding Liren win the 2023 World Chess Championship?](#will-ding-liren-win-the-2023-world-chess-championship)
-* [Will New York City break its record by going more than 332 days without measurable snow?](#will-new-york-city-break-its-record-by-going-more-than-332-days-without-measurable-snow)
 
 # Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?
 
@@ -42,7 +41,3 @@ Summary
 
 
 ![Who will become 2023 World Chess Champion?](assets/09.png)
-# Will New York City break its record by going more than 332 days without measurable snow?
-
-
-![NYC Breaks its Record for Snowless Days](assets/10.png)
