@@ -45,4 +45,4 @@ Summary
 # Will the Democratic Progressive Party (DPP) win the 2024 presidential election in Taiwan?
 
 
-![2024 Taiwan presidential election](assets/10.png)
+![2024 Taiwan presidential election](assets/09.png)
