@@ -5,19 +5,24 @@ Updates About The World
 Summary
 =======
 
-* [Who will win the 2023 Presidential Election in Türkiye (Turkey)? (Recep Tayyip Erdoğan)](#who-will-win-the-2023-presidential-election-in-trkiye-turkey-recep-tayyip-erdoan)
-* [Who will win the 2023 Presidential Election in Türkiye (Turkey)? (Kemal Kılıçdaroğlu)](#who-will-win-the-2023-presidential-election-in-trkiye-turkey-kemal-kldarolu)
-* [Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?](#will-the-maiden-flight-of-the-h3-launch-vehicle-carrying-alos-3-launch-successfully-and-on-time)
+* [Will the suspected Chinese surveillance balloon be on the ground before February 11th, 2023?](#will-the-suspected-chinese-surveillance-balloon-be-on-the-ground-before-february-11th-2023)
+* [Will there be 100 or more homicides in Portland, Oregon in 2023?](#will-there-be-100-or-more-homicides-in-portland-oregon-in-2023)
+* [Will Ding Liren win the 2023 World Chess Championship?](#will-ding-liren-win-the-2023-world-chess-championship)
+* [Will the Democratic Progressive Party (DPP) win the 2024 presidential election in Taiwan?](#will-the-democratic-progressive-party-dpp-win-the-2024-presidential-election-in-taiwan)
 
-# Who will win the 2023 Presidential Election in Türkiye (Turkey)? (Recep Tayyip Erdoğan)
-
-
-![Recep Tayyip Erdoğan](assets/03.png)
-# Who will win the 2023 Presidential Election in Türkiye (Turkey)? (Kemal Kılıçdaroğlu)
+# Will the suspected Chinese surveillance balloon be on the ground before February 11th, 2023?
 
 
-![Kemal Kılıçdaroğlu](assets/04.png)
-# Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?
+![Chinese Balloon](assets/02.png)
+# Will there be 100 or more homicides in Portland, Oregon in 2023?
 
 
-![H3 Launch Vehicle with ALOS-3 Maiden Launch](assets/05.png)
+![Homicide in Portland in 2023](assets/06.png)
+# Will Ding Liren win the 2023 World Chess Championship?
+
+
+![Who will become 2023 World Chess Champion?](assets/07.png)
+# Will the Democratic Progressive Party (DPP) win the 2024 presidential election in Taiwan?
+
+
+![2024 Taiwan presidential election](assets/09.png)
