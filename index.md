@@ -12,7 +12,7 @@ Summary
 * [Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?](#will-the-maiden-flight-of-the-h3-launch-vehicle-carrying-alos-3-launch-successfully-and-on-time)
 * [Will there be 100 or more homicides in Portland, Oregon in 2023?](#will-there-be-100-or-more-homicides-in-portland-oregon-in-2023)
 * [Will Ding Liren win the 2023 World Chess Championship?](#will-ding-liren-win-the-2023-world-chess-championship)
-* [If Erdoğan loses the 2023 presidential election, will he abdicate the presidency?](#if-erdoan-loses-the-2023-presidential-election-will-he-abdicate-the-presidency)
+* [Will the Ukrainian parliamentary elections be held on schedule on or before 29 October, 2023?](#will-the-ukrainian-parliamentary-elections-be-held-on-schedule-on-or-before-29-october-2023)
 
 # Will the maiden flight of the H3 Launch Vehicle carrying ALOS-3 launch successfully and on time?
 
@@ -42,7 +42,7 @@ Summary
 
 
 ![Who will become 2023 World Chess Champion?](assets/07.png)
-# If Erdoğan loses the 2023 presidential election, will he abdicate the presidency?
+# Will the Ukrainian parliamentary elections be held on schedule on or before 29 October, 2023?
 
 
-![Erdoğan Abdicating After Election Defeat](assets/10.png)
+![Ukrainian Parli. Elections 2023 on Schedule](assets/09.png)
