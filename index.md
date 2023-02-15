@@ -46,7 +46,7 @@ Summary
 # Will the Ukrainian parliamentary elections be held on schedule on or before 29 October, 2023?
 
 
-![Ukrainian Parli. Elections 2023 on Schedule](assets/09.png)
+![Ukrainian Parli. Elections 2023 on Schedule](assets/08.png)
 # Will the Democratic Progressive Party (DPP) win the 2024 presidential election in Taiwan?
 
 
