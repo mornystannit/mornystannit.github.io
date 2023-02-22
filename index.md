@@ -11,7 +11,7 @@ Summary
 # Who will win the 2023 Presidential Election in Türkiye (Turkey)? (Recep Tayyip Erdoğan)
 
 
-![Recep Tayyip Erdoğan](assets/03.png)
+![Recep Tayyip Erdoğan](assets/02.png)
 # Will the Ukrainian parliamentary elections be held on schedule on or before 29 October, 2023?
 
 
