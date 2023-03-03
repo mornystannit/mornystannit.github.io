@@ -13,7 +13,7 @@ Summary
 # Will the Nigerian Presidential Election on February 25th go to a run-off vote?
 
 
-![Will Nigerian Election Go To Run-off](assets/04.png)
+![Will Nigerian Election Go To Run-off](assets/06.png)
 # Will Dubai's planned aerial taxis be operational before 2027?
 
 
