@@ -9,6 +9,7 @@ Summary
 * [Will Adani Enterprises regain a total market cap of $50B before 2028?](#will-adani-enterprises-regain-a-total-market-cap-of-50b-before-2028)
 * [Will Russia significantly incorporate Belarus into the Union State before 2030?](#will-russia-significantly-incorporate-belarus-into-the-union-state-before-2030)
 * [Will the Solomon Islands host a Chinese military base before 2032?](#will-the-solomon-islands-host-a-chinese-military-base-before-2032)
+* [Will a country other than the United States shoot down a high-altitude object before the end of February, 2023?](#will-a-country-other-than-the-united-states-shoot-down-a-high-altitude-object-before-the-end-of-february-2023)
 
 # Will Dubai's planned aerial taxis be operational before 2027?
 
@@ -26,3 +27,7 @@ Summary
 
 
 ![Chinese Military Base in the Solomon Islands](assets/09.png)
+# Will a country other than the United States shoot down a high-altitude object before the end of February, 2023?
+
+
+![Downing High-Altitude Objects, February 2023](assets/10.png)
