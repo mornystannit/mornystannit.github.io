@@ -18,7 +18,7 @@ Summary
 # Will Dubai's planned aerial taxis be operational before 2027?
 
 
-![Dubai's aerial taxis operational before 2027?](assets/07.png)
+![Dubai's aerial taxis operational before 2027?](assets/04.png)
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
