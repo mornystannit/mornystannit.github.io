@@ -17,7 +17,7 @@ Summary
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
-![Adani Market Cap Recovery by 2028](assets/07.png)
+![Adani Market Cap Recovery by 2028](assets/06.png)
 # Will Russia significantly incorporate Belarus into the Union State before 2030?
 
 
