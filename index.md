@@ -17,12 +17,12 @@ Summary
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
-![Adani Market Cap Recovery by 2028](assets/07.png)
+![Adani Market Cap Recovery by 2028](assets/08.png)
 # Will Russia significantly incorporate Belarus into the Union State before 2030?
 
 
-![Russia taking over Belarus before 2030](assets/08.png)
+![Russia taking over Belarus before 2030](assets/09.png)
 # Will the Solomon Islands host a Chinese military base before 2032?
 
 
-![Chinese Military Base in the Solomon Islands](assets/09.png)
+![Chinese Military Base in the Solomon Islands](assets/10.png)
