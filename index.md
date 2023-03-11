@@ -19,7 +19,7 @@ Summary
 # Will Saudi Arabia and Iran restore diplomatic relations by 2024?
 
 
-![Saudi-Iran normalization by 2024](assets/02.png)
+![Saudi-Iran normalization by 2024](assets/03.png)
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
