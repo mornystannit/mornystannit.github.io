@@ -19,7 +19,7 @@ Summary
 # Will USDC restore its peg before May 1, 2023?
 
 
-![USDC peg restoration before May 2023?](assets/05.png)
+![USDC peg restoration before May 2023?](assets/03.png)
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
