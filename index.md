@@ -9,6 +9,7 @@ Summary
 * [Will Adani Enterprises regain a total market cap of $50B before 2028?](#will-adani-enterprises-regain-a-total-market-cap-of-50b-before-2028)
 * [Will Russia significantly incorporate Belarus into the Union State before 2030?](#will-russia-significantly-incorporate-belarus-into-the-union-state-before-2030)
 * [Will the Solomon Islands host a Chinese military base before 2032?](#will-the-solomon-islands-host-a-chinese-military-base-before-2032)
+* [[Short Fuse] Who will be the winner of the leadership race for the next First Minister of the Scottish Parliament? (Ash Regan)](#short-fuse-who-will-be-the-winner-of-the-leadership-race-for-the-next-first-minister-of-the-scottish-parliament-ash-regan)
 
 # Will humanity find and exploit a new source of xenon on Earth before 2040?
 
@@ -17,12 +18,16 @@ Summary
 # Will Adani Enterprises regain a total market cap of $50B before 2028?
 
 
-![Adani Market Cap Recovery by 2028](assets/06.png)
+![Adani Market Cap Recovery by 2028](assets/05.png)
 # Will Russia significantly incorporate Belarus into the Union State before 2030?
 
 
-![Russia taking over Belarus before 2030](assets/07.png)
+![Russia taking over Belarus before 2030](assets/06.png)
 # Will the Solomon Islands host a Chinese military base before 2032?
 
 
-![Chinese Military Base in the Solomon Islands](assets/09.png)
+![Chinese Military Base in the Solomon Islands](assets/07.png)
+# [Short Fuse] Who will be the winner of the leadership race for the next First Minister of the Scottish Parliament? (Ash Regan)
+
+
+![Ash Regan](assets/09.png)
