@@ -17,7 +17,7 @@ Summary
 # Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
 
 
-![Will certain statues go to Greece by 2024?](assets/06.png)
+![Will certain statues go to Greece by 2024?](assets/07.png)
 # Will USDC restore its peg before May 1, 2023?
 
 
