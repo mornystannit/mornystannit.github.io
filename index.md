@@ -18,16 +18,16 @@ Summary
 # Will USDC restore its peg before May 1, 2023?
 
 
-![USDC peg restoration before May 2023?](assets/05.png)
+![USDC peg restoration before May 2023?](assets/06.png)
 # Will Russia significantly incorporate Belarus into the Union State before 2030?
 
 
-![Russia taking over Belarus before 2030](assets/06.png)
+![Russia taking over Belarus before 2030](assets/07.png)
 # Will the Solomon Islands host a Chinese military base before 2032?
 
 
-![Chinese Military Base in the Solomon Islands](assets/07.png)
+![Chinese Military Base in the Solomon Islands](assets/08.png)
 # [Short Fuse] Who will be the winner of the leadership race for the next First Minister of the Scottish Parliament? (Ash Regan)
 
 
-![Ash Regan](assets/09.png)
+![Ash Regan](assets/10.png)
