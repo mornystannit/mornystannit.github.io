@@ -27,12 +27,12 @@ Summary
 # Will First Republic Bank enter FDIC receivership or be sold "under duress" before January 1, 2024?
 
 
-![First Republic Bank collapse before 2024?](assets/08.png)
+![First Republic Bank collapse before 2024?](assets/07.png)
 # Will the Solomon Islands host a Chinese military base before 2032?
 
 
-![Chinese Military Base in the Solomon Islands](assets/09.png)
+![Chinese Military Base in the Solomon Islands](assets/08.png)
 # [Short Fuse] Who will be the winner of the leadership race for the next First Minister of the Scottish Parliament? (Ash Regan)
 
 
-![Ash Regan](assets/10.png)
+![Ash Regan](assets/09.png)
