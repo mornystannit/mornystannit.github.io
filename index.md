@@ -18,16 +18,16 @@ Summary
 # Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
 
 
-![Will certain statues go to Greece by 2024?](assets/06.png)
+![Will certain statues go to Greece by 2024?](assets/05.png)
 # Will First Republic Bank enter FDIC receivership or be sold "under duress" before January 1, 2024?
 
 
-![First Republic Bank collapse before 2024?](assets/07.png)
+![First Republic Bank collapse before 2024?](assets/06.png)
 # Will USDC restore its peg before May 1, 2023?
 
 
-![USDC peg restoration before May 2023?](assets/08.png)
+![USDC peg restoration before May 2023?](assets/07.png)
 # Will Virgin Orbit file for bankruptcy protection before 2026?
 
 
-![Virgin Orbit Bankruptcy Filing by 2026?](assets/09.png)
+![Virgin Orbit Bankruptcy Filing by 2026?](assets/08.png)
