@@ -16,8 +16,8 @@ Summary
 # Will certain marble statues removed from Greece in the early 19th century be moved back before 2024?
 
 
-![Will certain statues go to Greece by 2024?](assets/08.png)
+![Will certain statues go to Greece by 2024?](assets/09.png)
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
-![Exponential improvement on diagonal Ramsey](assets/09.png)
+![Exponential improvement on diagonal Ramsey](assets/10.png)
