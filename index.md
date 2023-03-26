@@ -22,7 +22,7 @@ Summary
 # Will First Republic Bank enter FDIC receivership or be sold "under duress" before January 1, 2024?
 
 
-![First Republic Bank collapse before 2024?](assets/07.png)
+![First Republic Bank collapse before 2024?](assets/08.png)
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
