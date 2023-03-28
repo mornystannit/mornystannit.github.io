@@ -17,12 +17,12 @@ Summary
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
-![Exponential improvement on diagonal Ramsey](assets/06.png)
+![Exponential improvement on diagonal Ramsey](assets/07.png)
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
-![NASCAR Fatality before 2050](assets/07.png)
+![NASCAR Fatality before 2050](assets/08.png)
 # Will Virgin Orbit file for bankruptcy protection before 2026?
 
 
-![Virgin Orbit Bankruptcy Filing by 2026?](assets/08.png)
+![Virgin Orbit Bankruptcy Filing by 2026?](assets/09.png)
