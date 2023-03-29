@@ -22,7 +22,7 @@ Summary
 # Will Virgin Orbit file for bankruptcy protection before 2026?
 
 
-![Virgin Orbit Bankruptcy Filing by 2026?](assets/08.png)
+![Virgin Orbit Bankruptcy Filing by 2026?](assets/07.png)
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
