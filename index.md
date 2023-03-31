@@ -17,12 +17,12 @@ Summary
 # Will Emmanuel Macron cease being President of France before 2027?
 
 
-![Macron no longer President before 2027?](assets/06.png)
+![Macron no longer President before 2027?](assets/05.png)
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
-![Exponential improvement on diagonal Ramsey](assets/09.png)
+![Exponential improvement on diagonal Ramsey](assets/08.png)
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
-![NASCAR Fatality before 2050](assets/10.png)
+![NASCAR Fatality before 2050](assets/09.png)
