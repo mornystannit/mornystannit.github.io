@@ -21,7 +21,7 @@ Summary
 # Will there be an exponential improvement in the bounds on diagonal Ramsey by 2060?
 
 
-![Exponential improvement on diagonal Ramsey](assets/08.png)
+![Exponential improvement on diagonal Ramsey](assets/06.png)
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
