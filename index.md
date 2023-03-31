@@ -20,4 +20,4 @@ Summary
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
-![NASCAR Fatality before 2050](assets/08.png)
+![NASCAR Fatality before 2050](assets/07.png)
