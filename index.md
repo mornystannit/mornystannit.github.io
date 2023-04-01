@@ -21,7 +21,7 @@ Summary
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
-![NASCAR Fatality before 2050](assets/07.png)
+![NASCAR Fatality before 2050](assets/08.png)
 # Will Deutsche Bank collapse (or be rescued) before June 2023?
 
 
