@@ -23,15 +23,15 @@ Summary
 # Will the United States confiscate privately owned gold collections before 2035?
 
 
-![US Gold Confiscation before 2035](assets/05.png)
+![US Gold Confiscation before 2035](assets/06.png)
 # Will there be a driver fatality in the NASCAR Cup Series before 2050?
 
 
-![NASCAR Fatality before 2050](assets/06.png)
+![NASCAR Fatality before 2050](assets/07.png)
 # Will the Supreme Court find Harvard's admissions unlawful in SFFA vs. Harvard?
 
 
-![SCOTUS Rules Harvard's Admissions Unlawful](assets/07.png)
+![SCOTUS Rules Harvard's Admissions Unlawful](assets/08.png)
 # Will Deutsche Bank collapse (or be rescued) before June 2023?
 
 
