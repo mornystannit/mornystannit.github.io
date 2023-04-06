@@ -11,7 +11,6 @@ Summary
 * [Will there be a driver fatality in the NASCAR Cup Series before 2050?](#will-there-be-a-driver-fatality-in-the-nascar-cup-series-before-2050)
 * [Will the OpenAI Tour 2023 plan to visit more than one African destination as of April 10th?](#will-the-openai-tour-2023-plan-to-visit-more-than-one-african-destination-as-of-april-10th)
 * [Will the Supreme Court find Harvard's admissions unlawful in SFFA vs. Harvard?](#will-the-supreme-court-find-harvards-admissions-unlawful-in-sffa-vs-harvard)
-* [Will Deutsche Bank collapse (or be rescued) before June 2023?](#will-deutsche-bank-collapse-or-be-rescued-before-june-2023)
 
 # Will Emmanuel Macron cease being President of France before 2027?
 
@@ -37,7 +36,3 @@ Summary
 
 
 ![SCOTUS Rules Harvard's Admissions Unlawful](assets/08.png)
-# Will Deutsche Bank collapse (or be rescued) before June 2023?
-
-
-![Deutsche Bank Collapse before June 2023?](assets/10.png)
