@@ -19,11 +19,11 @@ Summary
 # Will Emmanuel Macron cease being President of France before 2027?
 
 
-![Macron no longer President before 2027?](assets/04.png)
+![Macron no longer President before 2027?](assets/05.png)
 # Will there be a civil war in Venezuela before 2050?
 
 
-![Venezuelan Civil War](assets/05.png)
+![Venezuelan Civil War](assets/06.png)
 # Will the United States confiscate privately owned gold collections before 2035?
 
 
