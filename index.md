@@ -27,12 +27,12 @@ Summary
 # Will the United States confiscate privately owned gold collections before 2035?
 
 
-![US Gold Confiscation before 2035](assets/06.png)
+![US Gold Confiscation before 2035](assets/07.png)
 # Will the OpenAI Tour 2023 plan to visit more than one African destination as of April 10th?
 
 
-![OpenAI Tour 2023 to >1 African City?](assets/07.png)
+![OpenAI Tour 2023 to >1 African City?](assets/08.png)
 # Will the Supreme Court find Harvard's admissions unlawful in SFFA vs. Harvard?
 
 
-![SCOTUS Rules Harvard's Admissions Unlawful](assets/08.png)
+![SCOTUS Rules Harvard's Admissions Unlawful](assets/09.png)
