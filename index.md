@@ -19,7 +19,7 @@ Summary
 # Will Emmanuel Macron cease being President of France before 2027?
 
 
-![Macron no longer President before 2027?](assets/05.png)
+![Macron no longer President before 2027?](assets/04.png)
 # Will there be a civil war in Venezuela before 2050?
 
 
