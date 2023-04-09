@@ -16,15 +16,15 @@ Summary
 # Will SpaceX receive a launch license for Starship from the FAA before April 15th, 2023?
 
 
-![Starship Launch License before Apr 15, 2023?](assets/03.png)
+![Starship Launch License before Apr 15, 2023?](assets/02.png)
 # Will Emmanuel Macron cease being President of France before 2027?
 
 
-![Macron no longer President before 2027?](assets/04.png)
+![Macron no longer President before 2027?](assets/03.png)
 # Will there be a full-scale war between North Korea and South Korea by 2050?
 
 
-![Second Korean War by 2050](assets/05.png)
+![Second Korean War by 2050](assets/04.png)
 # Will there be a civil war in Venezuela before 2050?
 
 
