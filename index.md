@@ -10,8 +10,8 @@ Summary
 * [Will Emmanuel Macron cease being President of France before 2027?](#will-emmanuel-macron-cease-being-president-of-france-before-2027)
 * [Will there be a full-scale war between North Korea and South Korea by 2050?](#will-there-be-a-full-scale-war-between-north-korea-and-south-korea-by-2050)
 * [Will there be a civil war in Venezuela before 2050?](#will-there-be-a-civil-war-in-venezuela-before-2050)
-* [At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)](#at-the-end-of-may-2023-will-these-individuals-signature-be-in-the-fli-open-letter-to-pause-giant-ai-experiments-dario-amodei-ceo-of-anthropic)
-* [Will the United States confiscate privately owned gold collections before 2035?](#will-the-united-states-confiscate-privately-owned-gold-collections-before-2035)
+* [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
+* [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
 
 # Will SpaceX receive a launch license for Starship from the FAA before April 15th, 2023?
 
@@ -33,11 +33,11 @@ Summary
 
 
 ![Venezuelan Civil War](assets/08.png)
-# At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)
+# Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
-![Dario Amodei, CEO of Anthropic](assets/09.png)
-# Will the United States confiscate privately owned gold collections before 2035?
+![Golden State Warriors](assets/09.png)
+# Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
 
 
-![US Gold Confiscation before 2035](assets/10.png)
+![Milwaukee Bucks](assets/10.png)
