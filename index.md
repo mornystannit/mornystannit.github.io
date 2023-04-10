@@ -11,7 +11,6 @@ Summary
 * [Will there be a full-scale war between North Korea and South Korea by 2050?](#will-there-be-a-full-scale-war-between-north-korea-and-south-korea-by-2050)
 * [Will there be a civil war in Venezuela before 2050?](#will-there-be-a-civil-war-in-venezuela-before-2050)
 * [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
-* [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
 
 # Will SpaceX receive a launch license for Starship from the FAA before April 15th, 2023?
 
@@ -32,12 +31,8 @@ Summary
 # Will there be a civil war in Venezuela before 2050?
 
 
-![Venezuelan Civil War](assets/08.png)
+![Venezuelan Civil War](assets/09.png)
 # Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
-![Golden State Warriors](assets/09.png)
-# Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
-
-
-![Milwaukee Bucks](assets/10.png)
+![Golden State Warriors](assets/10.png)
