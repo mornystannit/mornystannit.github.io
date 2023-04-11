@@ -23,7 +23,7 @@ Summary
 # Will there be a full-scale war between North Korea and South Korea by 2050?
 
 
-![Second Korean War by 2050](assets/03.png)
+![Second Korean War by 2050](assets/04.png)
 # Will there be a civil war in Venezuela before 2050?
 
 
