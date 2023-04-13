@@ -32,12 +32,12 @@ Summary
 # Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
-![Golden State Warriors](assets/07.png)
+![Golden State Warriors](assets/08.png)
 # Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
 
 
-![Milwaukee Bucks](assets/08.png)
+![Milwaukee Bucks](assets/09.png)
 # At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)
 
 
-![Dario Amodei, CEO of Anthropic](assets/09.png)
+![Dario Amodei, CEO of Anthropic](assets/10.png)
