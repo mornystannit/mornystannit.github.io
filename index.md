@@ -9,10 +9,10 @@ Summary
 * [Will voting in Twitter polls require verification on April 16, 2023?](#will-voting-in-twitter-polls-require-verification-on-april-16-2023)
 * [Will there be a full-scale war between North Korea and South Korea by 2050?](#will-there-be-a-full-scale-war-between-north-korea-and-south-korea-by-2050)
 * [Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?](#will-fda-approval-of-mifepristone-for-abortion-no-longer-be-in-effect-for-any-period-of-time-before-july-1-2023)
-* [Will there be a civil war in Venezuela before 2050?](#will-there-be-a-civil-war-in-venezuela-before-2050)
 * [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
 * [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
 * [At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)](#at-the-end-of-may-2023-will-these-individuals-signature-be-in-the-fli-open-letter-to-pause-giant-ai-experiments-dario-amodei-ceo-of-anthropic)
+* [Which team will win the 2022-23 NBA Championship? (Phoenix Suns)](#which-team-will-win-the-2022-23-nba-championship-phoenix-suns)
 
 # Will SpaceX receive a launch license for Starship from the FAA before April 15th, 2023?
 
@@ -30,19 +30,19 @@ Summary
 
 
 ![Mifepristone FDA Approval Suspended?](assets/05.png)
-# Will there be a civil war in Venezuela before 2050?
-
-
-![Venezuelan Civil War](assets/07.png)
 # Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
-![Golden State Warriors](assets/08.png)
+![Golden State Warriors](assets/07.png)
 # Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
 
 
-![Milwaukee Bucks](assets/09.png)
+![Milwaukee Bucks](assets/08.png)
 # At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)
 
 
-![Dario Amodei, CEO of Anthropic](assets/10.png)
+![Dario Amodei, CEO of Anthropic](assets/09.png)
+# Which team will win the 2022-23 NBA Championship? (Phoenix Suns)
+
+
+![Phoenix Suns](assets/10.png)
