@@ -12,7 +12,7 @@ Summary
 * [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
 * [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
 * [At the end of May 2023, will these individuals' signature be in the FLI open letter to pause giant AI experiments? (Dario Amodei, CEO of Anthropic)](#at-the-end-of-may-2023-will-these-individuals-signature-be-in-the-fli-open-letter-to-pause-giant-ai-experiments-dario-amodei-ceo-of-anthropic)
-* [Which team will win the 2022-23 NBA Championship? (Phoenix Suns)](#which-team-will-win-the-2022-23-nba-championship-phoenix-suns)
+* [Will Amritpal Singh be in Indian custody before April 21, 2023?](#will-amritpal-singh-be-in-indian-custody-before-april-21-2023)
 
 # Will SpaceX receive a launch license for Starship from the FAA before April 15th, 2023?
 
@@ -42,7 +42,7 @@ Summary
 
 
 ![Dario Amodei, CEO of Anthropic](assets/09.png)
-# Which team will win the 2022-23 NBA Championship? (Phoenix Suns)
+# Will Amritpal Singh be in Indian custody before April 21, 2023?
 
 
-![Phoenix Suns](assets/10.png)
+![Amritpal Singh in Custody Before April 21?](assets/10.png)
