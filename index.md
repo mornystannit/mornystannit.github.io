@@ -22,7 +22,7 @@ Summary
 # Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?
 
 
-![Mifepristone FDA Approval Suspended?](assets/06.png)
+![Mifepristone FDA Approval Suspended?](assets/07.png)
 # Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
