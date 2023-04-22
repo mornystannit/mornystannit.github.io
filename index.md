@@ -7,10 +7,10 @@ Summary
 
 * [Will Donald Trump be found guilty of any crime in the Manhattan case before Election Day 2024?](#will-donald-trump-be-found-guilty-of-any-crime-in-the-manhattan-case-before-election-day-2024)
 * [Will voting in Twitter polls require verification on April 16, 2023?](#will-voting-in-twitter-polls-require-verification-on-april-16-2023)
+* [Will Santiago Peña win the Paraguayan presidential election on April 30th?](#will-santiago-pea-win-the-paraguayan-presidential-election-on-april-30th)
 * [Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?](#will-fda-approval-of-mifepristone-for-abortion-no-longer-be-in-effect-for-any-period-of-time-before-july-1-2023)
 * [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
 * [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
-* [Which team will win the 2022-23 NBA Championship? (Phoenix Suns)](#which-team-will-win-the-2022-23-nba-championship-phoenix-suns)
 
 # Will Donald Trump be found guilty of any crime in the Manhattan case before Election Day 2024?
 
@@ -20,19 +20,19 @@ Summary
 
 
 ![Twitter Poll Verification on 4/16/23?](assets/04.png)
+# Will Santiago Peña win the Paraguayan presidential election on April 30th?
+
+
+![Will Santiago Peña win the Paraguay election?](assets/06.png)
 # Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?
 
 
-![Mifepristone FDA Approval Suspended?](assets/06.png)
+![Mifepristone FDA Approval Suspended?](assets/07.png)
 # Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
 
 
-![Golden State Warriors](assets/08.png)
+![Golden State Warriors](assets/09.png)
 # Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
 
 
-![Milwaukee Bucks](assets/09.png)
-# Which team will win the 2022-23 NBA Championship? (Phoenix Suns)
-
-
-![Phoenix Suns](assets/10.png)
+![Milwaukee Bucks](assets/10.png)
