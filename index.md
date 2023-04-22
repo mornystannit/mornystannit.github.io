@@ -9,8 +9,7 @@ Summary
 * [Will voting in Twitter polls require verification on April 16, 2023?](#will-voting-in-twitter-polls-require-verification-on-april-16-2023)
 * [Will Santiago Peña win the Paraguayan presidential election on April 30th?](#will-santiago-pea-win-the-paraguayan-presidential-election-on-april-30th)
 * [Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?](#will-fda-approval-of-mifepristone-for-abortion-no-longer-be-in-effect-for-any-period-of-time-before-july-1-2023)
-* [Which team will win the 2022-23 NBA Championship? (Golden State Warriors)](#which-team-will-win-the-2022-23-nba-championship-golden-state-warriors)
-* [Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)](#which-team-will-win-the-2022-23-nba-championship-milwaukee-bucks)
+* [Musk LLM Release before 2024? (No) → Elon Musk World's Richest Person 2025](#musk-llm-release-before-2024-no--elon-musk-worlds-richest-person-2025)
 
 # Will Donald Trump be found guilty of any crime in the Manhattan case before Election Day 2024?
 
@@ -23,16 +22,12 @@ Summary
 # Will Santiago Peña win the Paraguayan presidential election on April 30th?
 
 
-![Will Santiago Peña win the Paraguay election?](assets/06.png)
+![Will Santiago Peña win the Paraguay election?](assets/07.png)
 # Will FDA approval of mifepristone for abortion no longer be in effect for any period of time before July 1, 2023?
 
 
-![Mifepristone FDA Approval Suspended?](assets/07.png)
-# Which team will win the 2022-23 NBA Championship? (Golden State Warriors)
+![Mifepristone FDA Approval Suspended?](assets/09.png)
+# Musk LLM Release before 2024? (No) → Elon Musk World's Richest Person 2025
 
 
-![Golden State Warriors](assets/09.png)
-# Which team will win the 2022-23 NBA Championship? (Milwaukee Bucks)
-
-
-![Milwaukee Bucks](assets/10.png)
+![Elon Musk World's Richest Person 2025](assets/10.png)
