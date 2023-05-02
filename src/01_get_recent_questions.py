@@ -60,7 +60,7 @@ def clean_recent_questions(df, days=30):
             'last_activity_time',
             'possibilities.type',
             'prediction_timeseries',
-            'number_of_predictions'
+            'prediction_count'
         ]
     ]
 
@@ -69,7 +69,7 @@ def clean_recent_questions(df, days=30):
     recent = recent[
         (recent['last_activity_time'] > pd.to_datetime(cutoff_date))
         & (recent['possibilities.type']=='binary')
-        & (recent['number_of_predictions']>1)
+        & (recent['prediction_count']>1)
     ]
 
     # Explode prediction timeseries so each row is one prediction at time t
@@ -86,7 +86,7 @@ def clean_recent_questions(df, days=30):
         'id' : 'question_id',
         'community_prediction' : 'cp',
         'num_predictions' : 'n_predictions_at_t',
-        'number_of_predictions' : 'n_predictions_total',
+        'prediction_count' : 'n_predictions_total',
         'num' : 'distribution_num',
         'avg' : 'distribution_avg',
         'var' : 'distribution_var',
