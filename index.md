@@ -17,11 +17,11 @@ Summary
 # SpaceX Starship Orbit in 2023? (No) → SpaceX Mars Mission by 2030?
 
 
-![SpaceX Mars Mission by 2030?](assets/03.png)
+![SpaceX Mars Mission by 2030?](assets/04.png)
 # Will Santiago Peña win the Paraguayan presidential election on April 30th?
 
 
-![Will Santiago Peña win the Paraguay election?](assets/07.png)
+![Will Santiago Peña win the Paraguay election?](assets/08.png)
 # Will the 2023 World Chess Championship go to tiebreaks?
 
 
