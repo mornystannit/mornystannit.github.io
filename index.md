@@ -18,7 +18,7 @@ Summary
 # Will Santiago Peña win the Paraguayan presidential election on April 30th?
 
 
-![Will Santiago Peña win the Paraguay election?](assets/04.png)
+![Will Santiago Peña win the Paraguay election?](assets/03.png)
 # SpaceX Starship Orbit in 2023? (No) → SpaceX Mars Mission by 2030?
 
 
