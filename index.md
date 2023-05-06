@@ -25,4 +25,4 @@ Summary
 # Erdoğan wins 2023 Turkish Presidential Election? (No) → Swedish NATO Membership by 2024?
 
 
-![Swedish NATO Membership by 2024?](assets/09.png)
+![Swedish NATO Membership by 2024?](assets/08.png)
