@@ -21,8 +21,8 @@ Summary
 # Will the 2023 World Chess Championship go to tiebreaks?
 
 
-![2023 World Chess Championship tiebreaks?](assets/06.png)
+![2023 World Chess Championship tiebreaks?](assets/07.png)
 # Erdoğan wins 2023 Turkish Presidential Election? (No) → Swedish NATO Membership by 2024?
 
 
-![Swedish NATO Membership by 2024?](assets/08.png)
+![Swedish NATO Membership by 2024?](assets/09.png)
