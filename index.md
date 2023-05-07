@@ -17,12 +17,12 @@ Summary
 # SpaceX Starship Orbit in 2023? (No) → SpaceX Mars Mission by 2030?
 
 
-![SpaceX Mars Mission by 2030?](assets/05.png)
+![SpaceX Mars Mission by 2030?](assets/04.png)
 # Will the 2023 World Chess Championship go to tiebreaks?
 
 
-![2023 World Chess Championship tiebreaks?](assets/07.png)
+![2023 World Chess Championship tiebreaks?](assets/06.png)
 # Erdoğan wins 2023 Turkish Presidential Election? (No) → Swedish NATO Membership by 2024?
 
 
-![Swedish NATO Membership by 2024?](assets/09.png)
+![Swedish NATO Membership by 2024?](assets/08.png)
