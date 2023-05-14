@@ -21,8 +21,8 @@ Summary
 # Will Ukraine be confirmed to have used chemical weapons against Russian forces by January 1, 2024?
 
 
-![Ukraine using Chemical Weapons Confirmed](assets/08.png)
+![Ukraine using Chemical Weapons Confirmed](assets/09.png)
 # Will China engage in a full-scale blockade against Taiwan before the following years? (2025)
 
 
-![2025](assets/09.png)
+![2025](assets/10.png)
