@@ -16,7 +16,7 @@ Summary
 # SpaceX Starship Orbit in 2023? (Yes) → SpaceX Mars Mission by 2030?
 
 
-![SpaceX Mars Mission by 2030?](assets/03.png)
+![SpaceX Mars Mission by 2030?](assets/02.png)
 # Will Ukraine be confirmed to have used chemical weapons against Russian forces by January 1, 2024?
 
 
