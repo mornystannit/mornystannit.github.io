@@ -11,7 +11,7 @@ Summary
 # Will Russia substantially damage or destroy a Patriot Missile Battery in Ukraine before July, 2023?
 
 
-![Russia damages Patriot air defense system?](assets/06.png)
+![Russia damages Patriot air defense system?](assets/05.png)
 # Will Ukraine be confirmed to have used chemical weapons against Russian forces by January 1, 2024?
 
 
